@@ -27,9 +27,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@git.corp.kuaishou.com:ksg-frontend/vite-plugin-swagger-mock.git"
+    "url": "git@github.com:WsmDyj/vite-plugin-swagger-mock.git"
   },
-  "homepage": "https://git.corp.kuaishou.com/ksg-frontend/vite-plugin-swagger-mock",
+  "homepage": "https://github.com/WsmDyj/vite-plugin-swagger-mock.git",
   "author": "wusimin",
   "license": "MIT",
   "peerDependencies": {
